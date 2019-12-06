@@ -1,0 +1,30 @@
+canvas{
+  border: 1px solid #d3d3d3;
+  background-color: #3a3535;
+}
+
+button {
+  background-color: #232020;
+  color: white;
+  margin-right: 50px;
+}
+
+body {
+  background-color: #f4f4f4;
+  padding: 10%;
+}
+
+h3 {
+  margin-left: 102px;
+  position: relative;
+}
+
+p {
+  margin-left: 90px;
+  position: relative;
+}
+
+.directionpad {
+  text-align: center;
+  width: 480px;
+}
